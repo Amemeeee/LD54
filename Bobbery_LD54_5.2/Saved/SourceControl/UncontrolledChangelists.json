@@ -5,6 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/GameJams/GitHub/LD54/Bobbery_LD54_5.2/Content/__ExternalActors__/Levels/OfficeLevelMain/9/AN/3FW7OVH3T6F8UD5T3H7QV6.uasset",
+				"F:/GameJams/GitHub/LD54/Bobbery_LD54_5.2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"F:/GameJams/GitHub/LD54/Bobbery_LD54_5.2/Content/MousePad.uasset",
+				"F:/GameJams/GitHub/LD54/Bobbery_LD54_5.2/Content/ItemMaterial.uasset",
+				"F:/GameJams/GitHub/LD54/Bobbery_LD54_5.2/Content/LD54_TEXTURESHEET.uasset",
+				"F:/GameJams/GitHub/LD54/Bobbery_LD54_5.2/Content/Materials/ItemMaterial.uasset",
+				"F:/GameJams/GitHub/LD54/Bobbery_LD54_5.2/Content/Materials/LD54_TEXTURESHEET.uasset",
+				"F:/GameJams/GitHub/LD54/Bobbery_LD54_5.2/Content/Props/MousePad.uasset",
+				"F:/GameJams/GitHub/LD54/Bobbery_LD54_5.2/Content/Levels/OfficeLevelMain.umap",
+				"F:/GameJams/GitHub/LD54/Bobbery_LD54_5.2/Content/Scripting/OfficeItemParent.uasset",
+				"F:/GameJams/GitHub/LD54/Bobbery_LD54_5.2/Content/Scripting/OfficeItemParent_Child.uasset",
+				"F:/GameJams/GitHub/LD54/Bobbery_LD54_5.2/Content/Scripting/OfficeItemParent_Child_2.uasset",
+				"F:/GameJams/GitHub/LD54/Bobbery_LD54_5.2/Content/Scripting/OfficeItemParent_Child_3.uasset",
+				"F:/GameJams/GitHub/LD54/Bobbery_LD54_5.2/Content/Scripting/OfficeItemParent_Child_4.uasset",
+				"F:/GameJams/GitHub/LD54/Bobbery_LD54_5.2/Content/Scripting/OfficeItemParent_Child_5.uasset",
+				"F:/GameJams/GitHub/LD54/Bobbery_LD54_5.2/Content/Scripting/OfficeItemParent_Child_6.uasset",
+				"F:/GameJams/GitHub/LD54/Bobbery_LD54_5.2/Content/Scripting/OfficeItemParent_Child_7.uasset",
 				"C:/Users/B00838624/Documents/Unreal Projects/Bobbery_LD54/Content/StarterContent/Audio/Collapse01.uasset"
 			]
 		}
