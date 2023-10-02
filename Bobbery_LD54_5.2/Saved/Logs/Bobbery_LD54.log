@@ -1173,3 +1173,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.01-23.22.13:585][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2023.10.01-23.26.31:578][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2023.10.01-23.47.55:324][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.10.01-23.55.22:115][  0]LogDerivedDataCache: C:/Users/jonor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.118 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3264 files in 4712 folders with total size 144 MiB.
+[2023.10.01-23.58.55:776][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
